@@ -23,6 +23,7 @@ public class charecterController : MonoBehaviour
     private Vector3 m_Velocity = Vector3.zero;
     private float m_MovementSmoothing = 0.05f;
     private int m_stageIdx;
+    private CharecterAnimation m_animationController;
 
     private Vector2 m_orientation = Vector2.right;
     private bool m_isAttackMode = false;
@@ -33,11 +34,12 @@ public class charecterController : MonoBehaviour
     {
         m_rigidbody2D = GetComponent<Rigidbody2D>();
         m_collider = GetComponent<Collider2D>();
+        m_animationController = GetComponent<CharecterAnimation>();
     }
 
     public void Move(Vector2 _direction)
     {
-        //m_animator.move(_direction);
+        m_animationController.move(_direction);
         changeOrientation(_direction);
         Vector3 targetVelocity = new Vector2(_direction.x * m_speed, _direction.y * m_speed);
         m_rigidbody2D.velocity = Vector3.SmoothDamp(m_rigidbody2D.velocity, targetVelocity, ref m_Velocity, m_MovementSmoothing);
