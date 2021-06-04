@@ -14,6 +14,7 @@ public class charecterController : MonoBehaviour
 
     static private ulong FULL_GROWTH_SIZE = 10;
     static private ulong GROWTH_RATE = 1;
+    static private float ATTACK_MODE_TIME = 10.0f;
 
     public float m_speed = 4.0f;
 
@@ -52,20 +53,51 @@ public class charecterController : MonoBehaviour
         }
         if (m_size >= FULL_GROWTH_SIZE) 
         {
-            setAttackMode();
+            startAttackMode();
         }
         Debug.Log("num num " + m_size);
     }
 
     public bool isAttackMode() { return m_isAttackMode; }
 
-    public void stun() { }
+    public int getLevel() 
+    {
+        return (int)m_size;
+    }
 
-    public void getHit() { }
+    public void stun() 
+    {
+        Debug.Log("I am stuned");
+    }
+
+    public void getHit() 
+    {
+        Debug.Log("I am hit");
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         collision.SendMessage("chararcterCollide", m_collider);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        charecterController other = collision.gameObject.GetComponent<charecterController>();
+        if (other == null || m_isAttackMode) 
+        {
+            return;
+        }
+
+        if (other.isAttackMode()) 
+        {
+            getHit();
+            return;
+        }
+
+        if (other.getLevel() > getLevel()) 
+        {
+            stun();
+        }
     }
 
     private void changeOrientation(Vector2 direction)
@@ -103,9 +135,16 @@ public class charecterController : MonoBehaviour
 
     private void grow() { /*TODO need animations*/}
 
-    private void setAttackMode() 
+    private void endAttackMode() 
+    {
+        m_isAttackMode = false;
+        Debug.Log("attackMode end");
+    }
+
+    private void startAttackMode() 
     {
         m_isAttackMode = true;
+        Invoke("endAttackMode", ATTACK_MODE_TIME);
         Debug.Log("attackMode bahhhh");
     }
 }
