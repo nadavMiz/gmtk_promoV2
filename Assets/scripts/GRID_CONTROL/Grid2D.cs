@@ -14,6 +14,8 @@ public class Grid2D
     GridUnitState[,] m_gridStateMatrix;
 
 
+
+
     public  Grid2D(Vector2Int leftUpCorner, Vector2Int rightDownCorner)
     {
         m_sizeX = rightDownCorner.x - leftUpCorner.x;
@@ -48,6 +50,12 @@ public class Grid2D
         m_gridStateMatrix[x, y] = gus;
         return true;
     }
+
+    public Vector2Int getSizeVector()
+    {
+        return new Vector2Int(m_sizeX, m_sizeY);
+    }
+
     public bool checkValidCordinates(int x, int y)
     {
         if((x < 0 || x >= m_sizeX) || (y < 0 || y >= m_sizeY))
