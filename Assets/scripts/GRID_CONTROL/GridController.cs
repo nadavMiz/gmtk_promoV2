@@ -11,10 +11,10 @@ public class GridController : MonoBehaviour
     private Vector2Int m_rightDownVector;
     public bool m_debugGrid;
     public bool m_debugGraph;
-    public GameObject m_txtContainer;
+    GameObject m_txtContainer;
     private Grid2D m_grid2D = null;
     private Vector2 m_middleOfSquareOffset = new Vector2(0.5f, 0.5f);
-    
+    private Vector2 m_entireGridOffset;
 
     const float SIZE_OF_SCANBOX = 0.75f;
     const string OBSTACLE_LAYER_NAME = "OBSTACLE";
@@ -23,10 +23,29 @@ public class GridController : MonoBehaviour
     { 
         m_leftupVector = gameObjectoGridVector2Int(m_leftUpCornerMarker);
         m_rightDownVector = gameObjectoGridVector2Int(m_rightDownCornerMarker);
+        m_entireGridOffset = new Vector2(m_leftupVector.x, m_rightDownVector.y);
         m_grid2D = new Grid2D(m_leftupVector, m_rightDownVector);
+        scanEnviormentAndSetGrid();
+
+
+
+
+        Collider2D[] myHits = Physics2D.OverlapBoxAll(new Vector2(13,0), new Vector2(0.75f, 0.75f), 0, LayerMask.GetMask(OBSTACLE_LAYER_NAME));
+        if(myHits.Length ==0)
+        {
+            Debug.LogError("Wtf");
+        }
+        else
+        {
+            Debug.LogError("Good");
+        }
+
+
+
+
         m_txtContainer = new GameObject("debug text Container");
-        m_txtContainer.transform.position = new Vector3(0, 0, 0);
-        createWorldText2D("print me", m_txtContainer.transform,new Vector2(1.5f,1.5f),3,Color.blue);
+        m_txtContainer.transform.position = new Vector3(m_entireGridOffset.x, m_entireGridOffset.y,0);
+
     }
 
 
@@ -80,7 +99,10 @@ public class GridController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(m_debugGraph)
+        {
+            debug_PrintGrid2D();
+        }
     }
 
 
@@ -104,25 +126,30 @@ public class GridController : MonoBehaviour
         {
             for(int j = y; j < m_leftupVector.y; j++)
             {
-                scanSquareEnviorment(new Vector2Int(i, j));
+                GridUnitState state = scaningleSquareInEnviorment(new Vector2Int(i, j));
+
+                m_grid2D.setGridUnitState(i,j,state);
             }
         }
         return true;
     }
 
-    private GridUnitState scanSquareEnviorment(Vector2Int location)
+    private GridUnitState scaningleSquareInEnviorment(Vector2Int location)
     {
-        Collider2D[] myHits = Physics2D.OverlapBoxAll(location + m_middleOfSquareOffset, new Vector2(SIZE_OF_SCANBOX, SIZE_OF_SCANBOX),0,LayerMask.GetMask(OBSTACLE_LAYER_NAME));
-        if(myHits.Length > 0 )
+        Collider2D[] myHits = Physics2D.OverlapBoxAll (location + m_middleOfSquareOffset, new Vector2(SIZE_OF_SCANBOX, SIZE_OF_SCANBOX),0,LayerMask.GetMask(OBSTACLE_LAYER_NAME));
+        
+if(myHits.Length > 0 )
         {
+            Debug.Log("roiv not empty " + location);
             return GridUnitState.OBSTACLE;
         }
+        Debug.Log("roiv  empty " + location);
         return GridUnitState.EMPTY;
     }
 
 
 
-    public void printGrid2D()
+    public void debug_PrintGrid2D()
     {
         if(m_grid2D == null)
         {
@@ -133,7 +160,8 @@ public class GridController : MonoBehaviour
         {
             for(int j=0; j < size.y;j++)
             {
-                
+                GridUnitState state = m_grid2D.getGridUnitState(i, j);
+                createWorldText2D(state == GridUnitState.EMPTY ? "0" : "1",m_txtContainer.transform, new Vector2(i, j)+ m_middleOfSquareOffset, 50, state == GridUnitState.EMPTY ? Color.red :Color.green);
             }
         }
     }

@@ -50,7 +50,24 @@ public class Grid2D
         m_gridStateMatrix[x, y] = gus;
         return true;
     }
-
+    public GridUnitState getGridUnitState(int x,int y )
+    {
+        if (!checkValidCordinates(x,y))
+        {
+            Debug.LogError("getGridUnitState got bad position");
+            return GridUnitState.OBSTACLE;
+        }
+        return m_gridStateMatrix[x, y];
+    }
+    public GridUnitState getGridUnitState(Vector2Int pos)
+    {
+        if (!checkValidCordinates(pos.x, pos.y))
+        {
+            Debug.LogError("getGridUnitState got bad position");
+            return GridUnitState.OBSTACLE;
+        }
+        return m_gridStateMatrix[pos.x, pos.y];
+    }
     public Vector2Int getSizeVector()
     {
         return new Vector2Int(m_sizeX, m_sizeY);
