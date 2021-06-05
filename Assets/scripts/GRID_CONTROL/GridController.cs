@@ -15,19 +15,28 @@ public class GridController : MonoBehaviour
     private Grid2D m_grid2D = null;
     private Vector2 m_middleOfSquareOffset = new Vector2(0.5f, 0.5f);
     private Vector2 m_entireGridOffset;
+    private Graph2D m_graph2D;     
+
+
+
 
     const float SIZE_OF_SCANBOX = 0.75f;
     const string OBSTACLE_LAYER_NAME = "OBSTACLE";
     // Start is called before the first frame update
     void Start()
-    { 
+    {
         m_leftupVector = gameObjectoGridVector2Int(m_leftUpCornerMarker);
         m_rightDownVector = gameObjectoGridVector2Int(m_rightDownCornerMarker);
         m_entireGridOffset = new Vector2(m_leftupVector.x, m_rightDownVector.y);
         m_grid2D = new Grid2D(m_leftupVector, m_rightDownVector);
         scanEnviormentAndSetGrid();
+        m_graph2D = new Graph2D(m_grid2D);
+
+
+
+
         m_txtContainer = new GameObject("debug text Container");
-        m_txtContainer.transform.position = new Vector3(m_entireGridOffset.x, m_entireGridOffset.y,0);
+        m_txtContainer.transform.position = new Vector3(m_entireGridOffset.x, m_entireGridOffset.y, 0);
 
     }
 
@@ -82,9 +91,13 @@ public class GridController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(m_debugGraph)
+        if (m_debugGrid)
         {
             debug_PrintGrid2D();
+        }
+        if(m_debugGraph)
+        {
+            debug_PrintGraph2D();
         }
     }
 
@@ -99,15 +112,15 @@ public class GridController : MonoBehaviour
     {
         float x = gameObject.transform.position.x;
         float y = gameObject.transform.position.y;
-        return new Vector2Int(Mathf.FloorToInt(x),Mathf.FloorToInt(y));
+        return new Vector2Int(Mathf.FloorToInt(x), Mathf.FloorToInt(y));
     }
     public bool scanEnviormentAndSetGrid()
     {
         int x = m_leftupVector.x;
         int y = m_rightDownVector.y;
-        for(int i = x; i < m_rightDownVector.x; i++)
+        for (int i = x; i < m_rightDownVector.x; i++)
         {
-            for(int j = y; j < m_leftupVector.y; j++)
+            for (int j = y; j < m_leftupVector.y; j++)
             {
                 GridUnitState state = scaningleSquareInEnviorment(new Vector2Int(i, j));
                 Vector2Int gridCords = convertGameWorldToGridCords(i, j);
@@ -126,8 +139,8 @@ public class GridController : MonoBehaviour
     }
     private GridUnitState scaningleSquareInEnviorment(Vector2Int realWorldSquare)
     {
-        Collider2D[] myHits = Physics2D.OverlapBoxAll (realWorldSquare + m_middleOfSquareOffset, new Vector2(SIZE_OF_SCANBOX, SIZE_OF_SCANBOX),0,LayerMask.GetMask(OBSTACLE_LAYER_NAME));     
-        if(myHits.Length > 0 )
+        Collider2D[] myHits = Physics2D.OverlapBoxAll(realWorldSquare + m_middleOfSquareOffset, new Vector2(SIZE_OF_SCANBOX, SIZE_OF_SCANBOX), 0, LayerMask.GetMask(OBSTACLE_LAYER_NAME));
+        if (myHits.Length > 0)
         {
             return GridUnitState.OBSTACLE;
         }
@@ -138,18 +151,36 @@ public class GridController : MonoBehaviour
 
     public void debug_PrintGrid2D()
     {
-        if(m_grid2D == null)
+        if (m_grid2D == null)
         {
             Debug.Log("m_grid2D is empty");
         }
         Vector2Int size = m_grid2D.getSizeVector();
-        for(int i=0; i < size.x;i++)
+        for (int i = 0; i < size.x; i++)
         {
-            for(int j=0; j < size.y;j++)
+            for (int j = 0; j < size.y; j++)
             {
                 GridUnitState state = m_grid2D.getGridUnitState(i, j);
-                createWorldText2D(state == GridUnitState.EMPTY ? "0" : "1",m_txtContainer.transform, new Vector2(i, j)+ m_middleOfSquareOffset, 50, state == GridUnitState.EMPTY ? Color.red :Color.green);
+                createWorldText2D(state == GridUnitState.EMPTY ? "0" : "1", m_txtContainer.transform, new Vector2(i, j) + m_middleOfSquareOffset, 50, state == GridUnitState.EMPTY ? Color.red : Color.green);
             }
         }
     }
+
+
+
+    public void debug_PrintGraph2D()
+    {
+        if (m_graph2D == null )
+        {
+            Debug.Log("m_graph2D is empty");
+        }
+        Vector2Int size = m_grid2D.getSizeVector();
+        foreach( Node2D node in m_graph2D.m_nodes)
+        {
+            createWorldText2D("0", m_txtContainer.transform, new Vector2(node.m_cords.x, node.m_cords.y) + m_middleOfSquareOffset, 50, Color.white );
+
+        }
+
+    }
+    
 }
