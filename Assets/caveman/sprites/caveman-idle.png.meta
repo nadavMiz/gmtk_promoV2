@@ -1,7 +1,187 @@
 fileFormatVersion: 2
 guid: d44a5f224d4a9764c90669fbe88a25de
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -643628593398569392
+    second: caveman-idle_0
+  - first:
+      213: -2704168663533026486
+    second: caveman-idle_1
+  - first:
+      213: -2221524791014442069
+    second: caveman-idle_2
+  - first:
+      213: -6326936008989536098
+    second: caveman-idle_3
+  - first:
+      213: 5712521055174327880
+    second: caveman-idle_4
+  - first:
+      213: 7871908426417857598
+    second: caveman-idle_5
+  - first:
+      213: 9157268959486532834
+    second: caveman-idle_6
+  - first:
+      213: 485366932201836682
+    second: caveman-idle_7
+  - first:
+      213: -639753913264885669
+    second: caveman-idle_8
+  - first:
+      213: 4611206286999366217
+    second: caveman-idle_9
+  - first:
+      213: -2730832010595213974
+    second: caveman-idle_10
+  - first:
+      213: 4016803024363615740
+    second: caveman-idle_11
+  - first:
+      213: -1222432851965060573
+    second: caveman-idle_12
+  - first:
+      213: -4733707871619390354
+    second: caveman-idle_13
+  - first:
+      213: -8419331058435313456
+    second: caveman-idle_14
+  - first:
+      213: 8063785401562275526
+    second: caveman-idle_15
+  - first:
+      213: -7573491587678853254
+    second: caveman-idle_16
+  - first:
+      213: 1691598829755788266
+    second: caveman-idle_17
+  - first:
+      213: 4297742385633557338
+    second: caveman-idle_18
+  - first:
+      213: -3400792001586040515
+    second: caveman-idle_19
+  - first:
+      213: -4295932330883757317
+    second: caveman-idle_20
+  - first:
+      213: 5353764038891000082
+    second: caveman-idle_21
+  - first:
+      213: -5837754023038080437
+    second: caveman-idle_22
+  - first:
+      213: -2086499327381908288
+    second: caveman-idle_23
+  - first:
+      213: -3803181588553537280
+    second: caveman-idle_24
+  - first:
+      213: -1352315123625864771
+    second: caveman-idle_25
+  - first:
+      213: 5112218083719861276
+    second: caveman-idle_26
+  - first:
+      213: -6095232236044705609
+    second: caveman-idle_27
+  - first:
+      213: -7291588755272866649
+    second: caveman-idle_28
+  - first:
+      213: 440601722308653245
+    second: caveman-idle_29
+  - first:
+      213: -6175570619382917716
+    second: caveman-idle_30
+  - first:
+      213: -6426646226948707834
+    second: caveman-idle_31
+  - first:
+      213: 2214128852720994750
+    second: caveman-idle_32
+  - first:
+      213: 7079489447805160764
+    second: caveman-idle_33
+  - first:
+      213: 8458450306970827118
+    second: caveman-idle_34
+  - first:
+      213: 1808018953803574895
+    second: caveman-idle_35
+  - first:
+      213: 9083387409637800425
+    second: caveman-idle_36
+  - first:
+      213: -7402991529574837476
+    second: caveman-idle_37
+  - first:
+      213: 3642545872231771213
+    second: caveman-idle_38
+  - first:
+      213: -6647639633749482392
+    second: caveman-idle_39
+  - first:
+      213: 6881828209415546556
+    second: caveman-idle_40
+  - first:
+      213: -2102063305735087916
+    second: caveman-idle_41
+  - first:
+      213: -1586291601667337039
+    second: caveman-idle_42
+  - first:
+      213: -3256736348540424675
+    second: caveman-idle_43
+  - first:
+      213: -7312397681475164705
+    second: caveman-idle_44
+  - first:
+      213: -4984803129223715224
+    second: caveman-idle_45
+  - first:
+      213: -9138414919243608951
+    second: caveman-idle_46
+  - first:
+      213: 7195879328111279662
+    second: caveman-idle_47
+  - first:
+      213: 2265799806556992726
+    second: caveman-idle_48
+  - first:
+      213: 779506201767805274
+    second: caveman-idle_49
+  - first:
+      213: 3322638272946495003
+    second: caveman-idle_50
+  - first:
+      213: 7359937177494624180
+    second: caveman-idle_51
+  - first:
+      213: 7046922347879851297
+    second: caveman-idle_52
+  - first:
+      213: 1734700871562534410
+    second: caveman-idle_53
+  - first:
+      213: 8550709755767883517
+    second: caveman-idle_54
+  - first:
+      213: 6925743588838787055
+    second: caveman-idle_55
+  - first:
+      213: 2439868648897620765
+    second: caveman-idle_56
+  - first:
+      213: -5045168463804215643
+    second: caveman-idle_57
+  - first:
+      213: 7144488594880825595
+    second: caveman-idle_58
+  - first:
+      213: 3595526237359518787
+    second: caveman-idle_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +220,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +251,1281 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caveman-idle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a133543f5117f0800000000000000
+      internalID: -643628593398569392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a430f558decd87ad0800000000000000
+      internalID: -2704168663533026486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab3cd309fe8b21e0800000000000000
+      internalID: -2221524791014442069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e901d8ba8353238a0800000000000000
+      internalID: -6326936008989536098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84efa9922a3f64f40800000000000000
+      internalID: 5712521055174327880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e346a05b103ae3d60800000000000000
+      internalID: 7871908426417857598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecd7e2f997251f70800000000000000
+      internalID: 9157268959486532834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809c9b37ae5cb600800000000000000
+      internalID: 485366932201836682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_8
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503e2894332f17f0800000000000000
+      internalID: -639753913264885669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_9
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a25a2dfab4eff30800000000000000
+      internalID: 4611206286999366217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd43341c22a1ad0800000000000000
+      internalID: -2730832010595213974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf578e7911d8eb730800000000000000
+      internalID: 4016803024363615740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32adad04ccb090fe0800000000000000
+      internalID: -1222432851965060573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_13
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64e7a165cd7e4eb0800000000000000
+      internalID: -4733707871619390354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_14
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0bc878207882b80800000000000000
+      internalID: -8419331058435313456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_15
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce9915591258ef60800000000000000
+      internalID: 8063785401562275526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_16
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772efee68d85e690800000000000000
+      internalID: -7573491587678853254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_17
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb6f065c24c97710800000000000000
+      internalID: 1691598829755788266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_18
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf3d7ede5a4ab30800000000000000
+      internalID: 4297742385633557338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31797651b5fdc0d0800000000000000
+      internalID: -3400792001586040515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bface8e4e48c164c0800000000000000
+      internalID: -4295932330883757317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_21
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211db5527046c4a40800000000000000
+      internalID: 5353764038891000082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_22
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a25b255a12cfea0800000000000000
+      internalID: -5837754023038080437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_23
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c45f4f9ae34b03e0800000000000000
+      internalID: -2086499327381908288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_24
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009e5fdce72683bc0800000000000000
+      internalID: -3803181588553537280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_25
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db154e75f8c9b3de0800000000000000
+      internalID: -1352315123625864771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_26
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14537ee24f32f640800000000000000
+      internalID: 5112218083719861276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_27
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0ab034392696ba0800000000000000
+      internalID: -6095232236044705609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_28
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a46ab9d8a21fca90800000000000000
+      internalID: -7291588755272866649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_29
+      rect:
+        serializedVersion: 2
+        x: 2899
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f1a99ee45d1600800000000000000
+      internalID: 440601722308653245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_30
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca59752cd37fb4aa0800000000000000
+      internalID: -6175570619382917716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_31
+      rect:
+        serializedVersion: 2
+        x: 3098
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a2e917e47ffc6a0800000000000000
+      internalID: -6426646226948707834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_32
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c069e57a2abe10800000000000000
+      internalID: 2214128852720994750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_33
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d8d8fd4266f3260800000000000000
+      internalID: 7079489447805160764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_34
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e693a494db3726570800000000000000
+      internalID: 8458450306970827118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_35
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ea2a0c8af571910800000000000000
+      internalID: 1808018953803574895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_36
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e977b429bcae0e70800000000000000
+      internalID: 9083387409637800425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_37
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1357743d6a434990800000000000000
+      internalID: -7402991529574837476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_38
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ca078fb2cec8230800000000000000
+      internalID: 3642545872231771213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_39
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864ed8b49f6deb3a0800000000000000
+      internalID: -6647639633749482392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_40
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6e9738b4a218f50800000000000000
+      internalID: 6881828209415546556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_41
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d6468f88f3d2e0800000000000000
+      internalID: -2102063305735087916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_42
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4de6c513c5cf9e0800000000000000
+      internalID: -1586291601667337039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_43
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2522cb8fbdc2d0800000000000000
+      internalID: -3256736348540424675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_44
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5684b2d05258a90800000000000000
+      internalID: -7312397681475164705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_45
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666d5fe6fb62dab0800000000000000
+      internalID: -4984803129223715224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_46
+      rect:
+        serializedVersion: 2
+        x: 4598
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cca506c04dd2180800000000000000
+      internalID: -9138414919243608951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_47
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 0
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e36ae9f16ecd360800000000000000
+      internalID: 7195879328111279662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_48
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d47af95becb17f10800000000000000
+      internalID: 2265799806556992726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_49
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518590b2cc51da00800000000000000
+      internalID: 779506201767805274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_50
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ed718b7e16c1e20800000000000000
+      internalID: 3322638272946495003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_51
+      rect:
+        serializedVersion: 2
+        x: 5099
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b712c94edfb32660800000000000000
+      internalID: 7359937177494624180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_52
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e3290a82bbc160800000000000000
+      internalID: 7046922347879851297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_53
+      rect:
+        serializedVersion: 2
+        x: 5299
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e9b097045e21810800000000000000
+      internalID: 1734700871562534410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_54
+      rect:
+        serializedVersion: 2
+        x: 5401
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6030228393aa670800000000000000
+      internalID: 8550709755767883517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_55
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7cc22991f2d1060800000000000000
+      internalID: 6925743588838787055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_56
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ba724fb972cd120800000000000000
+      internalID: 2439868648897620765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_57
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae42fa3306fbf9b0800000000000000
+      internalID: -5045168463804215643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_58
+      rect:
+        serializedVersion: 2
+        x: 5799
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf883bf1682562360800000000000000
+      internalID: 7144488594880825595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-idle_59
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344396e1010e5e130800000000000000
+      internalID: 3595526237359518787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

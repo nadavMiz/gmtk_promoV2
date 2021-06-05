@@ -57,6 +57,8 @@ public class charecterController : MonoBehaviour
         {
             startAttackMode();
         }
+        m_animationController.setLevel((int)m_size);
+
         Debug.Log("num num " + m_size);
     }
 
@@ -140,6 +142,8 @@ public class charecterController : MonoBehaviour
     private void endAttackMode() 
     {
         m_isAttackMode = false;
+        m_size = 0L;
+        m_animationController.setLevel((int)m_size);
         Debug.Log("attackMode end");
     }
 

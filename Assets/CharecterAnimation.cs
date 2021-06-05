@@ -14,7 +14,6 @@ public class CharecterAnimation : MonoBehaviour
 
     public void move(Vector2 _direction)
     {
-        Debug.Log(_direction);
         if (_direction == Vector2.zero) 
         {
             m_animator.SetBool("isMoving", false);
@@ -28,5 +27,10 @@ public class CharecterAnimation : MonoBehaviour
         m_animator.SetFloat("speedHorizontal", _direction.x);
         m_animator.SetFloat("speedVertical", _direction.y);
         m_lastDircetion = _direction;
+    }
+
+    public void setLevel(int level) 
+    {
+        m_animator.SetInteger("level", level);
     }
 }

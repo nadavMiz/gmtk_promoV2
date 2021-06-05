@@ -1,7 +1,187 @@
 fileFormatVersion: 2
 guid: 5a43387e0837be84a8467b0aa11cc1cc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8759745723093884337
+    second: caveman-back_0
+  - first:
+      213: -2106054152236551351
+    second: caveman-back_1
+  - first:
+      213: -2455573083110263734
+    second: caveman-back_2
+  - first:
+      213: 4426473682149499705
+    second: caveman-back_3
+  - first:
+      213: 3365827095316344054
+    second: caveman-back_4
+  - first:
+      213: 6013061964257283607
+    second: caveman-back_5
+  - first:
+      213: -4492654390827847424
+    second: caveman-back_6
+  - first:
+      213: 4136036720147517585
+    second: caveman-back_7
+  - first:
+      213: -930036054067147401
+    second: caveman-back_8
+  - first:
+      213: -198025699167262058
+    second: caveman-back_9
+  - first:
+      213: -1897926740631420048
+    second: caveman-back_10
+  - first:
+      213: 7850519997325988548
+    second: caveman-back_11
+  - first:
+      213: -8259329342922933192
+    second: caveman-back_12
+  - first:
+      213: 1904741117225478764
+    second: caveman-back_13
+  - first:
+      213: -5475707741935931087
+    second: caveman-back_14
+  - first:
+      213: -6478888828083953364
+    second: caveman-back_15
+  - first:
+      213: -6091919735733229777
+    second: caveman-back_16
+  - first:
+      213: -3508442025173439046
+    second: caveman-back_17
+  - first:
+      213: -8987547244521861568
+    second: caveman-back_18
+  - first:
+      213: 5266455137109545414
+    second: caveman-back_19
+  - first:
+      213: 2915497439511362719
+    second: caveman-back_20
+  - first:
+      213: 1634904598289533657
+    second: caveman-back_21
+  - first:
+      213: -6024867396957704324
+    second: caveman-back_22
+  - first:
+      213: 6705104613065916346
+    second: caveman-back_23
+  - first:
+      213: 8003963217039075259
+    second: caveman-back_24
+  - first:
+      213: 6682679005051016086
+    second: caveman-back_25
+  - first:
+      213: -8922350194159667026
+    second: caveman-back_26
+  - first:
+      213: -4214239672388569182
+    second: caveman-back_27
+  - first:
+      213: 3008863018132347561
+    second: caveman-back_28
+  - first:
+      213: -6284487204182070832
+    second: caveman-back_29
+  - first:
+      213: -4655096708941921353
+    second: caveman-back_30
+  - first:
+      213: 1967093416391970557
+    second: caveman-back_31
+  - first:
+      213: -8998681351877573765
+    second: caveman-back_32
+  - first:
+      213: 5613717521999334142
+    second: caveman-back_33
+  - first:
+      213: 5283422062922529626
+    second: caveman-back_34
+  - first:
+      213: 2375909882069030692
+    second: caveman-back_35
+  - first:
+      213: 1557140241421723792
+    second: caveman-back_36
+  - first:
+      213: -1240515222199791291
+    second: caveman-back_37
+  - first:
+      213: 1274381512820618734
+    second: caveman-back_38
+  - first:
+      213: -8523001156416086137
+    second: caveman-back_39
+  - first:
+      213: 368924959896773509
+    second: caveman-back_40
+  - first:
+      213: -485410776653775182
+    second: caveman-back_41
+  - first:
+      213: 2859741467555579418
+    second: caveman-back_42
+  - first:
+      213: 113802586812454424
+    second: caveman-back_43
+  - first:
+      213: 2029945242039569845
+    second: caveman-back_44
+  - first:
+      213: -1130496616958820029
+    second: caveman-back_45
+  - first:
+      213: 2162618171574945813
+    second: caveman-back_46
+  - first:
+      213: -1350883792352086425
+    second: caveman-back_47
+  - first:
+      213: 8705904644860731070
+    second: caveman-back_48
+  - first:
+      213: -6367171168268416058
+    second: caveman-back_49
+  - first:
+      213: -264436231368125250
+    second: caveman-back_50
+  - first:
+      213: -7554659891309948176
+    second: caveman-back_51
+  - first:
+      213: -7356375386880151639
+    second: caveman-back_52
+  - first:
+      213: -5744302250862349597
+    second: caveman-back_53
+  - first:
+      213: -8737852734396787244
+    second: caveman-back_54
+  - first:
+      213: 4000355309167734433
+    second: caveman-back_55
+  - first:
+      213: -1943124945321770607
+    second: caveman-back_56
+  - first:
+      213: -4890650628738036791
+    second: caveman-back_57
+  - first:
+      213: 6171537089850108900
+    second: caveman-back_58
+  - first:
+      213: 4954379923510839395
+    second: caveman-back_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +220,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +251,1281 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caveman-back_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ed3c0da12f6680800000000000000
+      internalID: -8759745723093884337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943343a28eac5c2e0800000000000000
+      internalID: -2106054152236551351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b3358a4d0cedd0800000000000000
+      internalID: -2455573083110263734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933e2288c5efd6d30800000000000000
+      internalID: 4426473682149499705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc27b709e1d5be20800000000000000
+      internalID: 3365827095316344054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_5
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec7f77fffa27350800000000000000
+      internalID: 6013061964257283607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017b1872a2e6a1c0800000000000000
+      internalID: -4492654390827847424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1905d5abb77266930800000000000000
+      internalID: 4136036720147517585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_8
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8509e229d713f0800000000000000
+      internalID: -930036054067147401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_9
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aacb00da8704df0800000000000000
+      internalID: -198025699167262058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_10
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07303fe5fa539a5e0800000000000000
+      internalID: -1897926740631420048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c257bef756a2fc60800000000000000
+      internalID: 7850519997325988548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_12
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c3e10f8b7f06d80800000000000000
+      internalID: -8259329342922933192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_13
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a2e4154fffe6a10800000000000000
+      internalID: 1904741117225478764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_14
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1317d0cf1d06204b0800000000000000
+      internalID: -5475707741935931087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_15
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212fceffec5616a0800000000000000
+      internalID: -6478888828083953364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_16
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ed67d647257ba0800000000000000
+      internalID: -6091919735733229777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_17
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd2c7e01928f4fc0800000000000000
+      internalID: -3508442025173439046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_18
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ecb303661d54380800000000000000
+      internalID: -8987547244521861568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_19
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 2
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c112f85b05361940800000000000000
+      internalID: 5266455137109545414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_20
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 1
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cb2a9697de57820800000000000000
+      internalID: 2915497439511362719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_21
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da43bee11950b610800000000000000
+      internalID: 1634904598289533657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_22
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe089060f536ca0800000000000000
+      internalID: -6024867396957704324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_23
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf70a3de115d0d50800000000000000
+      internalID: 6705104613065916346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_24
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb728ea932ac31f60800000000000000
+      internalID: 8003963217039075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_25
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693d6041625adbc50800000000000000
+      internalID: 6682679005051016086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_26
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8b97365c17d2480800000000000000
+      internalID: -8922350194159667026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_27
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7bbe098530485c0800000000000000
+      internalID: -4214239672388569182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_28
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa969d29f0a1c920800000000000000
+      internalID: 3008863018132347561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_29
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96d373f2409c8a0800000000000000
+      internalID: -6284487204182070832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_30
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34d6cf436c56fb0800000000000000
+      internalID: -4655096708941921353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_31
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe8d044a058c4b10800000000000000
+      internalID: 1967093416391970557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_32
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73c76eccf24e1380800000000000000
+      internalID: -8998681351877573765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_33
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa0820f75ee7ed40800000000000000
+      internalID: 5613717521999334142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_34
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b75fa9f5c725940800000000000000
+      internalID: 5283422062922529626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_35
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427901b137de8f020800000000000000
+      internalID: 2375909882069030692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_36
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098686bacc21c9510800000000000000
+      internalID: 1557140241421723792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_37
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541115a5afdc8cee0800000000000000
+      internalID: -1240515222199791291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_38
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee57ff3eb338fa110800000000000000
+      internalID: 1274381512820618734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_39
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5393ea9738b980800000000000000
+      internalID: -8523001156416086137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_40
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832c6fdb4fae1500800000000000000
+      internalID: 368924959896773509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_41
+      rect:
+        serializedVersion: 2
+        x: 4109
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2beb76f68797349f0800000000000000
+      internalID: -485410776653775182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_42
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 2
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ca1396b7dfa720800000000000000
+      internalID: 2859741467555579418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_43
+      rect:
+        serializedVersion: 2
+        x: 4308
+        y: 2
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8161a7989de449100800000000000000
+      internalID: 113802586812454424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_44
+      rect:
+        serializedVersion: 2
+        x: 4411
+        y: 2
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd43494170db2c10800000000000000
+      internalID: 2029945242039569845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_45
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418366015baf40f0800000000000000
+      internalID: -1130496616958820029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_46
+      rect:
+        serializedVersion: 2
+        x: 4610
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518878dd4c9230e10800000000000000
+      internalID: 2162618171574945813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_47
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 2
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76675002952b04de0800000000000000
+      internalID: -1350883792352086425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_48
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebed85d062691d870800000000000000
+      internalID: 8705904644860731070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_49
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 2
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb8043ae8343a7a0800000000000000
+      internalID: -6367171168268416058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_50
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb45f8b06a8845cf0800000000000000
+      internalID: -264436231368125250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_51
+      rect:
+        serializedVersion: 2
+        x: 5108
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2549bead4782790800000000000000
+      internalID: -7554659891309948176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_52
+      rect:
+        serializedVersion: 2
+        x: 5208
+        y: 2
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afe496bf87e8e990800000000000000
+      internalID: -7356375386880151639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_53
+      rect:
+        serializedVersion: 2
+        x: 5307
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e27fd699832840b0800000000000000
+      internalID: -5744302250862349597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_54
+      rect:
+        serializedVersion: 2
+        x: 5407
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59a92bb39ecb680800000000000000
+      internalID: -8737852734396787244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_55
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 2
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6a4a75fd148730800000000000000
+      internalID: 4000355309167734433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_56
+      rect:
+        serializedVersion: 2
+        x: 5609
+        y: 2
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19145e74822a805e0800000000000000
+      internalID: -1943124945321770607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_57
+      rect:
+        serializedVersion: 2
+        x: 5709
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb47893a2be02cb0800000000000000
+      internalID: -4890650628738036791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_58
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 1
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe9a6f844b5a550800000000000000
+      internalID: 6171537089850108900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-back_59
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 1
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368c03f7a4e71c440800000000000000
+      internalID: 4954379923510839395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

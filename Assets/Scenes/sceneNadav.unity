@@ -204,24 +204,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1041250880 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1159137887841957075, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
-    type: 3}
-  m_PrefabInstance: {fileID: 1159137887925630100}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1041250888
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1041250880}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ebbb161db64a891459ec6ef32b4bc406, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1159137887925630100
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -234,36 +216,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: character
       objectReference: {fileID: 0}
-    - target: {fileID: 1159137887841957081, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
-        type: 3}
-      propertyPath: m_Size.x
-      value: 0.9236078
-      objectReference: {fileID: 0}
-    - target: {fileID: 1159137887841957081, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 0.86
-      objectReference: {fileID: 0}
-    - target: {fileID: 1159137887841957081, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: -7260653897514614210, guid: 06e6d55861417bd44a97d7fbeae78d6e,
-        type: 3}
     - target: {fileID: 1159137887841957087, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
         type: 3}
       propertyPath: m_RootOrder
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1159137887841957087, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1159137887841957087, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 1159137887841957087, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
         type: 3}

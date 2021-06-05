@@ -1,7 +1,187 @@
 fileFormatVersion: 2
 guid: bb7270b01c09ee847af27cc5fccc60a9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1967004801979587547
+    second: caveman-front_0
+  - first:
+      213: 1360469996956876683
+    second: caveman-front_1
+  - first:
+      213: 6155329197763387160
+    second: caveman-front_2
+  - first:
+      213: 364385542536073284
+    second: caveman-front_3
+  - first:
+      213: -5884788471647609166
+    second: caveman-front_4
+  - first:
+      213: 8814386939558107320
+    second: caveman-front_5
+  - first:
+      213: -1240563277386133907
+    second: caveman-front_6
+  - first:
+      213: -648779671272920238
+    second: caveman-front_7
+  - first:
+      213: -3577079319665040749
+    second: caveman-front_8
+  - first:
+      213: -7481819731371672662
+    second: caveman-front_9
+  - first:
+      213: -8119541750568407096
+    second: caveman-front_10
+  - first:
+      213: 5006781112670419687
+    second: caveman-front_11
+  - first:
+      213: 2523876975171192733
+    second: caveman-front_12
+  - first:
+      213: 2174804142518873517
+    second: caveman-front_13
+  - first:
+      213: 3974887589939418771
+    second: caveman-front_14
+  - first:
+      213: -8471212265617695591
+    second: caveman-front_15
+  - first:
+      213: -603161252561219233
+    second: caveman-front_16
+  - first:
+      213: -228906584826854976
+    second: caveman-front_17
+  - first:
+      213: 2685738492075559383
+    second: caveman-front_18
+  - first:
+      213: -5174699671644365445
+    second: caveman-front_19
+  - first:
+      213: -8794096594281267916
+    second: caveman-front_20
+  - first:
+      213: 6821825898202215140
+    second: caveman-front_21
+  - first:
+      213: 6989725925077223002
+    second: caveman-front_22
+  - first:
+      213: -704109156506172698
+    second: caveman-front_23
+  - first:
+      213: -430206584300775983
+    second: caveman-front_24
+  - first:
+      213: 9188255957609154272
+    second: caveman-front_25
+  - first:
+      213: 8363988815849045872
+    second: caveman-front_26
+  - first:
+      213: -6863465256136583033
+    second: caveman-front_27
+  - first:
+      213: -3675620392287055764
+    second: caveman-front_28
+  - first:
+      213: 5050680810764466536
+    second: caveman-front_29
+  - first:
+      213: 522265210977577687
+    second: caveman-front_30
+  - first:
+      213: -4258146828971244603
+    second: caveman-front_31
+  - first:
+      213: 4744676794136458380
+    second: caveman-front_32
+  - first:
+      213: 8742902944230505491
+    second: caveman-front_33
+  - first:
+      213: 5285880090328200739
+    second: caveman-front_34
+  - first:
+      213: 8572919321172923185
+    second: caveman-front_35
+  - first:
+      213: 1915821968194630261
+    second: caveman-front_36
+  - first:
+      213: -7634558635622962067
+    second: caveman-front_37
+  - first:
+      213: -4643536580412120344
+    second: caveman-front_38
+  - first:
+      213: -7269842112405611865
+    second: caveman-front_39
+  - first:
+      213: -8535050823326238228
+    second: caveman-front_40
+  - first:
+      213: -5789896726064866156
+    second: caveman-front_41
+  - first:
+      213: -252626411085442968
+    second: caveman-front_42
+  - first:
+      213: -671128345106533607
+    second: caveman-front_43
+  - first:
+      213: -3575522850588834549
+    second: caveman-front_44
+  - first:
+      213: -4312351309043803586
+    second: caveman-front_45
+  - first:
+      213: -4295255558776879172
+    second: caveman-front_46
+  - first:
+      213: -6959520362673544077
+    second: caveman-front_47
+  - first:
+      213: 8406290329428195918
+    second: caveman-front_48
+  - first:
+      213: -5432482477629643598
+    second: caveman-front_49
+  - first:
+      213: -4671873801557848441
+    second: caveman-front_50
+  - first:
+      213: -2272412019906346747
+    second: caveman-front_51
+  - first:
+      213: -8234231408452345800
+    second: caveman-front_52
+  - first:
+      213: 1233657449286318255
+    second: caveman-front_53
+  - first:
+      213: -2715868073827498381
+    second: caveman-front_54
+  - first:
+      213: -3701186287242077346
+    second: caveman-front_55
+  - first:
+      213: -5395875804796839940
+    second: caveman-front_56
+  - first:
+      213: 6133659627701192862
+    second: caveman-front_57
+  - first:
+      213: 7586813722127054482
+    second: caveman-front_58
+  - first:
+      213: -7128188260302009861
+    second: caveman-front_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +220,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +251,1281 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: caveman-front_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb1b7d12743c4b10800000000000000
+      internalID: 1967004801979587547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff030114c51e210800000000000000
+      internalID: 1360469996956876683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd6440b4f1c6550800000000000000
+      internalID: 6155329197763387160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440962868be8e0500800000000000000
+      internalID: 364385542536073284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be51216018055ea0800000000000000
+      internalID: -5884788471647609166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8143d883ef25a70800000000000000
+      internalID: 8814386939558107320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_6
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e4102a542a8cee0800000000000000
+      internalID: -1240563277386133907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_7
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b684c83521ff6f0800000000000000
+      internalID: -648779671272920238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39228f99f49ab5ec0800000000000000
+      internalID: -3577079319665040749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_9
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab351e389c3b2890800000000000000
+      internalID: -7481819731371672662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_10
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfaa6a0cc7915f80800000000000000
+      internalID: -8119541750568407096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_11
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafad815e8ab7540800000000000000
+      internalID: 5006781112670419687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_12
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97cdd1acbc960320800000000000000
+      internalID: 2523876975171192733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_13
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dada2e258d47e2e10800000000000000
+      internalID: 2174804142518873517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_14
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39692740433a92730800000000000000
+      internalID: 3974887589939418771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_15
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cdceaa355307a80800000000000000
+      internalID: -8471212265617695591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_16
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f511fc6590421a7f0800000000000000
+      internalID: -603161252561219233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_17
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c5a48ca2c2dcf0800000000000000
+      internalID: -228906584826854976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_18
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9c1cbcde8a54520800000000000000
+      internalID: 2685738492075559383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_19
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d9e4cb016cf28b0800000000000000
+      internalID: -5174699671644365445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_20
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d74699db715f580800000000000000
+      internalID: -8794096594281267916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_21
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e237e5c28efbae50800000000000000
+      internalID: 6821825898202215140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_22
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56019912be700160800000000000000
+      internalID: 6989725925077223002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_23
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e28953e3708a36f0800000000000000
+      internalID: -704109156506172698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_24
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d7b21469970af0800000000000000
+      internalID: -430206584300775983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_25
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e609aaac1e338f70800000000000000
+      internalID: 9188255957609154272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_26
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb502838bd21470800000000000000
+      internalID: 8363988815849045872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_27
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 0
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7885eb7b6b210c0a0800000000000000
+      internalID: -6863465256136583033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_28
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605c8c3ab29dfcc0800000000000000
+      internalID: -3675620392287055764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_29
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 0
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8697f7f007f971640800000000000000
+      internalID: 5050680810764466536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_30
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 0
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daecda31757f3700800000000000000
+      internalID: 522265210977577687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_31
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 0
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c386b9050608e4c0800000000000000
+      internalID: -4258146828971244603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_32
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 0
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84fa88e76a78d140800000000000000
+      internalID: 4744676794136458380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_33
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 0
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7398e7e7055970800000000000000
+      internalID: 8742902944230505491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_34
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3267255bfe73b5940800000000000000
+      internalID: 5285880090328200739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_35
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 1
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133589a83b029f670800000000000000
+      internalID: 8572919321172923185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_36
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 1
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572712bfded569a10800000000000000
+      internalID: 1915821968194630261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_37
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6dcade599c0690800000000000000
+      internalID: -7634558635622962067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_38
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2e0072518de8fb0800000000000000
+      internalID: -4643536580412120344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_39
+      rect:
+        serializedVersion: 2
+        x: 3907
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa53e4bd155c1b90800000000000000
+      internalID: -7269842112405611865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_40
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 1
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9fbbf2f786d8980800000000000000
+      internalID: -8535050823326238228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_41
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 1
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd4b49a9726afa0800000000000000
+      internalID: -5789896726064866156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_42
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 1
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860de5a1e9d7e7cf0800000000000000
+      internalID: -252626411085442968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_43
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913ba3f635cafa6f0800000000000000
+      internalID: -671128345106533607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_44
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054c5c49e0316ec0800000000000000
+      internalID: -3575522850588834549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_45
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 2
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad0cd05537724c0800000000000000
+      internalID: -4312351309043803586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_46
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 1
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7059793df2464c0800000000000000
+      internalID: -4295255558776879172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_47
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 1
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374eebf6a11da6f90800000000000000
+      internalID: -6959520362673544077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_48
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a7e54248429a470800000000000000
+      internalID: 8406290329428195918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_49
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e95818f1fb94b0800000000000000
+      internalID: -5432482477629643598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_50
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ec0b6b78b2a2fb0800000000000000
+      internalID: -4671873801557848441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_51
+      rect:
+        serializedVersion: 2
+        x: 5102
+        y: 1
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018722ce45c670e0800000000000000
+      internalID: -2272412019906346747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_52
+      rect:
+        serializedVersion: 2
+        x: 5202
+        y: 1
+        width: 89
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83065dc29222abd80800000000000000
+      internalID: -8234231408452345800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_53
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8b937f9e4de1110800000000000000
+      internalID: 1233657449286318255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_54
+      rect:
+        serializedVersion: 2
+        x: 5401
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37600ba406c4f4ad0800000000000000
+      internalID: -2715868073827498381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_55
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 1
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b93657eaeb2acc0800000000000000
+      internalID: -3701186287242077346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_56
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf795fa4b8ffd15b0800000000000000
+      internalID: -5395875804796839940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_57
+      rect:
+        serializedVersion: 2
+        x: 5700
+        y: 1
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c8421fe22f1550800000000000000
+      internalID: 6133659627701192862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_58
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296317432e6c94960800000000000000
+      internalID: 7586813722127054482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caveman-front_59
+      rect:
+        serializedVersion: 2
+        x: 5899
+        y: 0
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c6944b86931d90800000000000000
+      internalID: -7128188260302009861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
