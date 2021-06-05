@@ -94,10 +94,12 @@ public class GridController : MonoBehaviour
         if (m_debugGrid)
         {
             debug_PrintGrid2D();
+            m_debugGrid = !m_debugGrid;
         }
         if(m_debugGraph)
         {
             debug_PrintGraph2D();
+            m_debugGraph = !m_debugGraph;
         }
     }
 
