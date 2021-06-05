@@ -35,7 +35,7 @@ public class GridController : MonoBehaviour
         m_grid2D = new Grid2D(m_leftupVector, m_rightDownVector);
         scanEnviormentAndSetGrid();
         m_graph2D = new Graph2D(m_grid2D);
-        m_graph2D.startPathFinding(new Vector2Int(0, 0), new Vector2Int(8, 0));
+        //m_graph2D.startPathFinding(new Vector2Int(0, 0), new Vector2Int(8, 0));
 
 
 

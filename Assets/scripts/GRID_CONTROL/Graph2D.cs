@@ -134,12 +134,14 @@ public List<Node2D> startPathFinding(Vector2Int startNodeCords, Vector2Int endNo
             
         }
         List<Node2D> pathList = new List<Node2D>();
+        /*
         while (currentNode!=null)
         {
             pathList.Add(currentNode);
             Debug.Log("cords ("+currentNode.m_cords.x+","+ currentNode.m_cords.y+")");
             currentNode = currentNode.previousNode;
         }
+        */
         pathList.Reverse();
         return pathList;
 
