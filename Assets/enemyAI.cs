@@ -7,6 +7,7 @@ public class enemyAI : MonoBehaviour
     public charecterController m_controller;
     public GridController m_gridController;
     public foodSpawner m_spawner;
+    bool nadav = true;
 
     private Vector2 m_diretion = Vector2.zero;
     private Vector2 m_target = Vector2.zero;
@@ -47,11 +48,13 @@ public class enemyAI : MonoBehaviour
         Vector2 position = new Vector2(transform.position.x, transform.position.y);
         if (m_nodeIdx >= m_path.Count) 
         {
+            m_controller.Move(Vector2.zero);
             getNewPath();
+            Debug.Log("new path");
             return;
         }
         m_controller.Move(m_diretion);
-        Debug.Log(Vector2.Distance(position, m_target));
+        //Debug.Log(Vector2.Distance(position, m_target));
         if (Vector2.Distance(position, m_target) < 0.2) 
         {
             ++m_nodeIdx;
