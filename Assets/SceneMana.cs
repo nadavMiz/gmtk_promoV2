@@ -7,7 +7,11 @@ public class SceneMana : MonoBehaviour
 {
 
 
-    
+    public void changeSceneToStartScene()
+    {
+        Debug.Log("boom boom boom");
+        SceneManager.LoadScene(1);
+    }
     void Awake()
     {
         if(FindObjectsOfType<SceneMana>().Length > 1 )
