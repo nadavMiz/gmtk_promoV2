@@ -20,7 +20,7 @@ public class CharecterAnimation : MonoBehaviour
             m_animator.SetBool("isMoving", false);
             return;
         }
-        if (System.Math.Sign(_direction.x) != System.Math.Sign(m_lastDircetion.x)) 
+        if (_direction.x != 0 && System.Math.Sign(_direction.x) != System.Math.Sign(transform.localScale.x)) 
         {
             transform.localScale = new Vector3(transform.localScale.x * -1, transform.localScale.y, transform.localScale.y);
         }

@@ -232,13 +232,23 @@ PrefabInstance:
     - target: {fileID: 1159137887841957075, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
         type: 3}
       propertyPath: m_Name
-      value: charecter
+      value: character
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159137887841957081, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 0.9236078
+      objectReference: {fileID: 0}
+    - target: {fileID: 1159137887841957081, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.86
       objectReference: {fileID: 0}
     - target: {fileID: 1159137887841957081, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 098763705dc2c1341b2214daebe5f236,
+      objectReference: {fileID: -7260653897514614210, guid: 06e6d55861417bd44a97d7fbeae78d6e,
         type: 3}
     - target: {fileID: 1159137887841957087, guid: b8808d9b0e13e7f4aa19ef1a4cb16795,
         type: 3}
