@@ -29,6 +29,16 @@ public class CharecterAnimation : MonoBehaviour
         m_lastDircetion = _direction;
     }
 
+    public void initiateDeath() 
+    {
+        m_animator.SetTrigger("die");
+    }
+
+    public void stun(bool isStun) 
+    {
+        m_animator.SetBool("stun", isStun);
+    }
+
     public void setLevel(int level) 
     {
         m_animator.SetInteger("level", level);

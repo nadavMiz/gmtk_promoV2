@@ -25,8 +25,7 @@ public class foodSpawner : MonoBehaviour
 
     public void removeFood(Vector2Int _pos) 
     {
-        Debug.Log("dsadsa");
-        m_foods.Remove(_pos);
+        //m_foods.Remove(_pos);
     }
 
     private void FixedUpdate()
@@ -37,7 +36,7 @@ public class foodSpawner : MonoBehaviour
             Vector2Int worldCoordinates = m_gridController.convectGridToGameWorld(coordinates);
             Vector3 worldPosition = new Vector3((float)worldCoordinates.x + 0.5f, (float)worldCoordinates.y + 0.5f, 0);
             SpawnFood(worldPosition, worldCoordinates);
-            m_foods.Add(coordinates);
+            //m_foods.Add(coordinates);
             m_lastTime = Time.time;
         } 
         
@@ -52,7 +51,7 @@ public class foodSpawner : MonoBehaviour
             int y = Random.Range(0, m_gridHeight);
 
             res = new Vector2Int(x, y);
-        } while ((m_grid.getGridUnitState(res.x, res.y) == GridUnitState.OBSTACLE) || m_foods.Contains(res));
+        } while (m_grid.getGridUnitState(res.x, res.y) == GridUnitState.OBSTACLE);
 
         return res;
     }
