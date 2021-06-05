@@ -37,8 +37,7 @@ public class foodSpawner : MonoBehaviour
             return getEmptyCoordinate();
         }
         int idx = Random.Range(0, m_foods.Count);
-        Vector2Int target = m_foods.Values.ElementAt(idx);
-        return m_gridController.convectGridToGameWorld(target);
+        return m_foods.Values.ElementAt(idx);
     }
 
     private void FixedUpdate()

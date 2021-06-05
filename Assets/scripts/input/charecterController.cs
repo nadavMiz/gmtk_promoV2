@@ -111,14 +111,18 @@ public class charecterController : MonoBehaviour
         Debug.Log("I am hit");
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        charecterController other = collision.GetComponent<charecterController>();
-        if (other != null) 
+        charecterController other = collision.gameObject.GetComponent<charecterController>();
+        if (other != null)
         {
             checkCollition(other);
             return;
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
         collision.SendMessage("chararcterCollide", m_collider);
     }
 

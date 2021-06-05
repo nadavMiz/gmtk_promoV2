@@ -11,7 +11,7 @@ public class enemyAI : MonoBehaviour
     private Vector2 m_diretion = Vector2.zero;
     private Vector2 m_target = Vector2.zero;
     private int m_nodeIdx = 0;
-    private List<Node2D> m_path;
+    private List<Node2D> m_path = new List<Node2D>();
 
     private void getNextDirection() 
     {
@@ -23,14 +23,21 @@ public class enemyAI : MonoBehaviour
         Vector2Int targetNode = m_gridController.convectGridToGameWorld(node.m_cords);
         m_target = new Vector2(targetNode.x + 0.5f, targetNode.y + 0.5f);
         Vector2 position = new Vector2(transform.position.x, transform.position.y);
-        m_diretion = (position - m_target).normalized;
+        m_diretion = (m_target - position).normalized;
+        Debug.Log("direction " + m_diretion);
     }
 
     private void getNewPath() 
     {
         Vector2Int target = m_spawner.getRandomFood();
         Vector2Int position = m_gridController.convertGameWorldToGridCords((int)transform.position.x, (int)transform.position.y);
-        m_path = m_gridController.m_graph2D.startPathFinding(position, target);
+        List<Node2D> path = m_gridController.m_graph2D.startPathFinding(position, target);
+        if (path == null) 
+        {
+            return;
+        }
+        m_path = path;
+        Debug.Log(m_path.Count);
         m_nodeIdx = 0;
         getNextDirection();
     }
@@ -41,8 +48,10 @@ public class enemyAI : MonoBehaviour
         if (m_nodeIdx >= m_path.Count) 
         {
             getNewPath();
+            return;
         }
         m_controller.Move(m_diretion);
+        Debug.Log(Vector2.Distance(position, m_target));
         if (Vector2.Distance(position, m_target) < 0.2) 
         {
             ++m_nodeIdx;

@@ -60,6 +60,7 @@ public class Graph2D
 
 public List<Node2D> startPathFinding(Vector2Int startNodeCords, Vector2Int endNodeCords)
     {
+        Debug.Log("position " + startNodeCords + " target " + endNodeCords);
         Node2D starting_node = m_nodes[startNodeCords.x, startNodeCords.y];
         Node2D end_node = m_nodes[endNodeCords.x, endNodeCords.y];
 
@@ -134,14 +135,14 @@ public List<Node2D> startPathFinding(Vector2Int startNodeCords, Vector2Int endNo
             
         }
         List<Node2D> pathList = new List<Node2D>();
-        /*
+        
         while (currentNode!=null)
         {
             pathList.Add(currentNode);
-            Debug.Log("cords ("+currentNode.m_cords.x+","+ currentNode.m_cords.y+")");
+            //Debug.Log("cords ("+currentNode.m_cords.x+","+ currentNode.m_cords.y+")");
             currentNode = currentNode.previousNode;
         }
-        */
+        
         pathList.Reverse();
         return pathList;
 
