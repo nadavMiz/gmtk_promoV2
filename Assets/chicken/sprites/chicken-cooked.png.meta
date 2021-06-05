@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 9fce061f804ad76489f2342d4076eead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9184677205419853168
+    second: chicken-cooked_0
+  - first:
+      213: 7068137175909615059
+    second: chicken-cooked_1
+  - first:
+      213: 6261824254219710558
+    second: chicken-cooked_2
+  - first:
+      213: -7056731314527025533
+    second: chicken-cooked_3
+  - first:
+      213: 4751041448929345151
+    second: chicken-cooked_4
+  - first:
+      213: -2828289630028388350
+    second: chicken-cooked_5
+  - first:
+      213: 4942866019111437209
+    second: chicken-cooked_6
+  - first:
+      213: -5186910548885486268
+    second: chicken-cooked_7
+  - first:
+      213: -6349483225070564967
+    second: chicken-cooked_8
+  - first:
+      213: -4653830831859010838
+    second: chicken-cooked_9
+  - first:
+      213: 4976746086907273232
+    second: chicken-cooked_10
+  - first:
+      213: 3627210424125597009
+    second: chicken-cooked_11
+  - first:
+      213: -4037807243109497928
+    second: chicken-cooked_12
+  - first:
+      213: 2549559043996228827
+    second: chicken-cooked_13
+  - first:
+      213: 9135879551449481349
+    second: chicken-cooked_14
+  - first:
+      213: 8091657667948352743
+    second: chicken-cooked_15
+  - first:
+      213: 7651566468146776942
+    second: chicken-cooked_16
+  - first:
+      213: -9133229755446517130
+    second: chicken-cooked_17
+  - first:
+      213: 2965625049845355920
+    second: chicken-cooked_18
+  - first:
+      213: 7756860239980015606
+    second: chicken-cooked_19
+  - first:
+      213: -7290245539936525969
+    second: chicken-cooked_20
+  - first:
+      213: -5263449670926077674
+    second: chicken-cooked_21
+  - first:
+      213: 3696552584758033729
+    second: chicken-cooked_22
+  - first:
+      213: 8928471232198340748
+    second: chicken-cooked_23
+  - first:
+      213: -4226954476844124298
+    second: chicken-cooked_24
+  - first:
+      213: -7092618617690853298
+    second: chicken-cooked_25
+  - first:
+      213: 7774021218986396292
+    second: chicken-cooked_26
+  - first:
+      213: 7468769514359508993
+    second: chicken-cooked_27
+  - first:
+      213: 1448887006818636810
+    second: chicken-cooked_28
+  - first:
+      213: 3360927728175610007
+    second: chicken-cooked_29
+  - first:
+      213: -707584085925967278
+    second: chicken-cooked_30
+  - first:
+      213: -6511036700534807237
+    second: chicken-cooked_31
+  - first:
+      213: 643397960906060171
+    second: chicken-cooked_32
+  - first:
+      213: -7021745605898171900
+    second: chicken-cooked_33
+  - first:
+      213: -8904508844319498125
+    second: chicken-cooked_34
+  - first:
+      213: 5891007681443152481
+    second: chicken-cooked_35
+  - first:
+      213: 8053576222242673045
+    second: chicken-cooked_36
+  - first:
+      213: 412880999683922523
+    second: chicken-cooked_37
+  - first:
+      213: -1490547417894492660
+    second: chicken-cooked_38
+  - first:
+      213: -2233690087778514724
+    second: chicken-cooked_39
+  - first:
+      213: 2981613637018759383
+    second: chicken-cooked_40
+  - first:
+      213: -7959156559322246462
+    second: chicken-cooked_41
+  - first:
+      213: 8834504841534923974
+    second: chicken-cooked_42
+  - first:
+      213: -4506601043278342861
+    second: chicken-cooked_43
+  - first:
+      213: -4132832826503098284
+    second: chicken-cooked_44
+  - first:
+      213: 3420472443729701495
+    second: chicken-cooked_45
+  - first:
+      213: -8686980545249220025
+    second: chicken-cooked_46
+  - first:
+      213: 4871772573054383593
+    second: chicken-cooked_47
+  - first:
+      213: 4676334303435168710
+    second: chicken-cooked_48
+  - first:
+      213: -6990302628495478266
+    second: chicken-cooked_49
+  - first:
+      213: 8653590517964346644
+    second: chicken-cooked_50
+  - first:
+      213: -2052975164340019803
+    second: chicken-cooked_51
+  - first:
+      213: -1631412119745273070
+    second: chicken-cooked_52
+  - first:
+      213: 8531441863164874708
+    second: chicken-cooked_53
+  - first:
+      213: -3851715445139893686
+    second: chicken-cooked_54
+  - first:
+      213: 5889395635394245363
+    second: chicken-cooked_55
+  - first:
+      213: 7308667587085335149
+    second: chicken-cooked_56
+  - first:
+      213: 2963736005547179144
+    second: chicken-cooked_57
+  - first:
+      213: -9119142614636225681
+    second: chicken-cooked_58
+  - first:
+      213: 4071944375650991407
+    second: chicken-cooked_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chicken-cooked_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758dad7147867f70800000000000000
+      internalID: 9184677205419853168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 7
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d543d91051171260800000000000000
+      internalID: 7068137175909615059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50f0be8bf776e650800000000000000
+      internalID: 6261824254219710558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386cd32f144711e90800000000000000
+      internalID: -7056731314527025533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 7
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e379496071fe140800000000000000
+      internalID: 4751041448929345151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208ac300195efb8d0800000000000000
+      internalID: -2828289630028388350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_6
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9938c79b476989440800000000000000
+      internalID: 4942866019111437209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_7
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44544f356546408b0800000000000000
+      internalID: -5186910548885486268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_8
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9990e56d5aa12e7a0800000000000000
+      internalID: -6349483225070564967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae27846f3854a6fb0800000000000000
+      internalID: -4653830831859010838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 7
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106c67b234f01540800000000000000
+      internalID: 4976746086907273232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_11
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 7
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a997b9a0765230800000000000000
+      internalID: 3627210424125597009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b385f2a4b3d6f7c0800000000000000
+      internalID: -4037807243109497928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_13
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc974f317ad16320800000000000000
+      internalID: 2549559043996228827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_14
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c6ee4c0a29ce70800000000000000
+      internalID: 9135879551449481349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_15
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4902e07c75b4070800000000000000
+      internalID: 8091657667948352743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_16
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 7
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bcd2db923df2a60800000000000000
+      internalID: 7651566468146776942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_17
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 7
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67225966def304180800000000000000
+      internalID: -9133229755446517130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_18
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09558013544082920800000000000000
+      internalID: 2965625049845355920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff2c586a47e5ab60800000000000000
+      internalID: 7756860239980015606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_20
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6125ba8e48d3da90800000000000000
+      internalID: -7290245539936525969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_21
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611fd47496874f6b0800000000000000
+      internalID: -5263449670926077674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_22
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dfd0c9dfacc4330800000000000000
+      internalID: 3696552584758033729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_23
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f976d74d48eb70800000000000000
+      internalID: 8928471232198340748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_24
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67775f57c47d655c0800000000000000
+      internalID: -4226954476844124298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_25
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f63d02f4f19d90800000000000000
+      internalID: -7092618617690853298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_26
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a88023c1fd2eb60800000000000000
+      internalID: 7774021218986396292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_27
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1005aa45d4666a760800000000000000
+      internalID: 7468769514359508993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_28
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a049a116e0b7b1410800000000000000
+      internalID: 1448887006818636810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_29
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798faa936f964ae20800000000000000
+      internalID: 3360927728175610007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_30
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 7
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac9a5d5082e26f0800000000000000
+      internalID: -707584085925967278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_31
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 7
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3567192e9624a5a0800000000000000
+      internalID: -6511036700534807237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_32
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 7
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81340d590fcde800800000000000000
+      internalID: 643397960906060171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_33
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a8741039fbd8e90800000000000000
+      internalID: -7021745605898171900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_34
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370230b5264dc6480800000000000000
+      internalID: -8904508844319498125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_35
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162448d364011c150800000000000000
+      internalID: 5891007681443152481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_36
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919e4a87ec04cf60800000000000000
+      internalID: 8053576222242673045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_37
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a1ba8e419dab500800000000000000
+      internalID: 412880999683922523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_38
+      rect:
+        serializedVersion: 2
+        x: 3819
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e58b4503805be0800000000000000
+      internalID: -1490547417894492660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_39
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd886a323b65001e0800000000000000
+      internalID: -2233690087778514724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_40
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 7
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0b6fb3ec1d06920800000000000000
+      internalID: 2981613637018759383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_41
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c290e957456b8190800000000000000
+      internalID: -7959156559322246462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_42
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4682e98577a9a70800000000000000
+      internalID: 8834504841534923974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_43
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3355df66a365571c0800000000000000
+      internalID: -4506601043278342861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_44
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4509534e07a35a6c0800000000000000
+      internalID: -4132832826503098284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_45
+      rect:
+        serializedVersion: 2
+        x: 4519
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a658ca095f77f20800000000000000
+      internalID: 3420472443729701495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_46
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ae0bd3835a17780800000000000000
+      internalID: -8686980545249220025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_47
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5b56be7530c9340800000000000000
+      internalID: 4871772573054383593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_48
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1a3fc54da5e040800000000000000
+      internalID: 4676334303435168710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_49
+      rect:
+        serializedVersion: 2
+        x: 4919
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023c0cabc47dfe90800000000000000
+      internalID: -6990302628495478266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_50
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41514f63abab71870800000000000000
+      internalID: 8653590517964346644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_51
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad50d417fd5283e0800000000000000
+      internalID: -2052975164340019803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_52
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e058125f0c59e0800000000000000
+      internalID: -1631412119745273070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_53
+      rect:
+        serializedVersion: 2
+        x: 5319
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc6db4c25c56670800000000000000
+      internalID: 8531441863164874708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_54
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a421d8cb535fb8ac0800000000000000
+      internalID: -3851715445139893686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_55
+      rect:
+        serializedVersion: 2
+        x: 5518
+        y: 7
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f86580265bb150800000000000000
+      internalID: 5889395635394245363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_56
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 7
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6af1ad827a9d6560800000000000000
+      internalID: 7308667587085335149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_57
+      rect:
+        serializedVersion: 2
+        x: 5718
+        y: 7
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cbcaac13e412920800000000000000
+      internalID: 2963736005547179144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_58
+      rect:
+        serializedVersion: 2
+        x: 5818
+        y: 7
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b1b767b1c427180800000000000000
+      internalID: -9119142614636225681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chicken-cooked_59
+      rect:
+        serializedVersion: 2
+        x: 5919
+        y: 7
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2db3d7e5d3728830800000000000000
+      internalID: 4071944375650991407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

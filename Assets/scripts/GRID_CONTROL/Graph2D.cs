@@ -7,9 +7,6 @@ public class Graph2D
     bool m_cancleDiagBetweenTwo = false;
     Grid2D m_gridRef = null;
     public Node2D[,] m_nodes;
-    SortedSet<>
-
-
 
 
 

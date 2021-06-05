@@ -270,9 +270,9 @@ TextureImporter:
       name: caveman-idle_0
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -291,9 +291,9 @@ TextureImporter:
       name: caveman-idle_1
       rect:
         serializedVersion: 2
-        x: 101
+        x: 100
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -312,9 +312,9 @@ TextureImporter:
       name: caveman-idle_2
       rect:
         serializedVersion: 2
-        x: 201
+        x: 200
         y: 0
-        width: 90
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -335,7 +335,7 @@ TextureImporter:
         serializedVersion: 2
         x: 300
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -356,7 +356,7 @@ TextureImporter:
         serializedVersion: 2
         x: 400
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -377,7 +377,7 @@ TextureImporter:
         serializedVersion: 2
         x: 500
         y: 0
-        width: 92
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -396,9 +396,9 @@ TextureImporter:
       name: caveman-idle_6
       rect:
         serializedVersion: 2
-        x: 599
+        x: 600
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -417,9 +417,9 @@ TextureImporter:
       name: caveman-idle_7
       rect:
         serializedVersion: 2
-        x: 699
+        x: 700
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -438,9 +438,9 @@ TextureImporter:
       name: caveman-idle_8
       rect:
         serializedVersion: 2
-        x: 799
+        x: 800
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -459,9 +459,9 @@ TextureImporter:
       name: caveman-idle_9
       rect:
         serializedVersion: 2
-        x: 899
+        x: 900
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -482,7 +482,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1000
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -503,7 +503,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1100
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -524,7 +524,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1200
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -543,9 +543,9 @@ TextureImporter:
       name: caveman-idle_13
       rect:
         serializedVersion: 2
-        x: 1299
+        x: 1300
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -564,9 +564,9 @@ TextureImporter:
       name: caveman-idle_14
       rect:
         serializedVersion: 2
-        x: 1399
+        x: 1400
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -585,9 +585,9 @@ TextureImporter:
       name: caveman-idle_15
       rect:
         serializedVersion: 2
-        x: 1499
+        x: 1500
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -606,9 +606,9 @@ TextureImporter:
       name: caveman-idle_16
       rect:
         serializedVersion: 2
-        x: 1598
+        x: 1600
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -627,9 +627,9 @@ TextureImporter:
       name: caveman-idle_17
       rect:
         serializedVersion: 2
-        x: 1698
+        x: 1700
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -648,9 +648,9 @@ TextureImporter:
       name: caveman-idle_18
       rect:
         serializedVersion: 2
-        x: 1798
+        x: 1800
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -671,7 +671,7 @@ TextureImporter:
         serializedVersion: 2
         x: 1900
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -692,7 +692,7 @@ TextureImporter:
         serializedVersion: 2
         x: 2000
         y: 0
-        width: 90
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -711,9 +711,9 @@ TextureImporter:
       name: caveman-idle_21
       rect:
         serializedVersion: 2
-        x: 2099
+        x: 2100
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -732,9 +732,9 @@ TextureImporter:
       name: caveman-idle_22
       rect:
         serializedVersion: 2
-        x: 2199
+        x: 2200
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -753,9 +753,9 @@ TextureImporter:
       name: caveman-idle_23
       rect:
         serializedVersion: 2
-        x: 2298
+        x: 2300
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -774,9 +774,9 @@ TextureImporter:
       name: caveman-idle_24
       rect:
         serializedVersion: 2
-        x: 2398
+        x: 2400
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -795,9 +795,9 @@ TextureImporter:
       name: caveman-idle_25
       rect:
         serializedVersion: 2
-        x: 2498
+        x: 2500
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -816,9 +816,9 @@ TextureImporter:
       name: caveman-idle_26
       rect:
         serializedVersion: 2
-        x: 2597
+        x: 2600
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -837,9 +837,9 @@ TextureImporter:
       name: caveman-idle_27
       rect:
         serializedVersion: 2
-        x: 2697
+        x: 2700
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -858,9 +858,9 @@ TextureImporter:
       name: caveman-idle_28
       rect:
         serializedVersion: 2
-        x: 2799
+        x: 2800
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -879,9 +879,9 @@ TextureImporter:
       name: caveman-idle_29
       rect:
         serializedVersion: 2
-        x: 2899
+        x: 2900
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -900,9 +900,9 @@ TextureImporter:
       name: caveman-idle_30
       rect:
         serializedVersion: 2
-        x: 2999
+        x: 3000
         y: 0
-        width: 90
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -921,9 +921,9 @@ TextureImporter:
       name: caveman-idle_31
       rect:
         serializedVersion: 2
-        x: 3098
+        x: 3100
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -942,9 +942,9 @@ TextureImporter:
       name: caveman-idle_32
       rect:
         serializedVersion: 2
-        x: 3198
+        x: 3200
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -963,9 +963,9 @@ TextureImporter:
       name: caveman-idle_33
       rect:
         serializedVersion: 2
-        x: 3297
+        x: 3300
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -984,9 +984,9 @@ TextureImporter:
       name: caveman-idle_34
       rect:
         serializedVersion: 2
-        x: 3397
+        x: 3400
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1007,7 +1007,7 @@ TextureImporter:
         serializedVersion: 2
         x: 3500
         y: 0
-        width: 90
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1026,9 +1026,9 @@ TextureImporter:
       name: caveman-idle_36
       rect:
         serializedVersion: 2
-        x: 3599
+        x: 3600
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1047,9 +1047,9 @@ TextureImporter:
       name: caveman-idle_37
       rect:
         serializedVersion: 2
-        x: 3699
+        x: 3700
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1068,9 +1068,9 @@ TextureImporter:
       name: caveman-idle_38
       rect:
         serializedVersion: 2
-        x: 3798
+        x: 3800
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1089,9 +1089,9 @@ TextureImporter:
       name: caveman-idle_39
       rect:
         serializedVersion: 2
-        x: 3898
+        x: 3900
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1110,9 +1110,9 @@ TextureImporter:
       name: caveman-idle_40
       rect:
         serializedVersion: 2
-        x: 3998
+        x: 4000
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1131,9 +1131,9 @@ TextureImporter:
       name: caveman-idle_41
       rect:
         serializedVersion: 2
-        x: 4098
+        x: 4100
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1154,7 +1154,7 @@ TextureImporter:
         serializedVersion: 2
         x: 4200
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1173,9 +1173,9 @@ TextureImporter:
       name: caveman-idle_43
       rect:
         serializedVersion: 2
-        x: 4299
+        x: 4300
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1194,9 +1194,9 @@ TextureImporter:
       name: caveman-idle_44
       rect:
         serializedVersion: 2
-        x: 4399
+        x: 4400
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1215,9 +1215,9 @@ TextureImporter:
       name: caveman-idle_45
       rect:
         serializedVersion: 2
-        x: 4499
+        x: 4500
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1236,9 +1236,9 @@ TextureImporter:
       name: caveman-idle_46
       rect:
         serializedVersion: 2
-        x: 4598
+        x: 4600
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1257,9 +1257,9 @@ TextureImporter:
       name: caveman-idle_47
       rect:
         serializedVersion: 2
-        x: 4699
+        x: 4700
         y: 0
-        width: 92
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1280,7 +1280,7 @@ TextureImporter:
         serializedVersion: 2
         x: 4800
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1301,7 +1301,7 @@ TextureImporter:
         serializedVersion: 2
         x: 4900
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1322,7 +1322,7 @@ TextureImporter:
         serializedVersion: 2
         x: 5000
         y: 0
-        width: 90
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1341,9 +1341,9 @@ TextureImporter:
       name: caveman-idle_51
       rect:
         serializedVersion: 2
-        x: 5099
+        x: 5100
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1362,9 +1362,9 @@ TextureImporter:
       name: caveman-idle_52
       rect:
         serializedVersion: 2
-        x: 5199
+        x: 5200
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1383,9 +1383,9 @@ TextureImporter:
       name: caveman-idle_53
       rect:
         serializedVersion: 2
-        x: 5299
+        x: 5300
         y: 0
-        width: 93
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1404,9 +1404,9 @@ TextureImporter:
       name: caveman-idle_54
       rect:
         serializedVersion: 2
-        x: 5401
+        x: 5400
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1425,9 +1425,9 @@ TextureImporter:
       name: caveman-idle_55
       rect:
         serializedVersion: 2
-        x: 5501
+        x: 5500
         y: 0
-        width: 90
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1448,7 +1448,7 @@ TextureImporter:
         serializedVersion: 2
         x: 5600
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1469,7 +1469,7 @@ TextureImporter:
         serializedVersion: 2
         x: 5700
         y: 0
-        width: 91
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1488,9 +1488,9 @@ TextureImporter:
       name: caveman-idle_58
       rect:
         serializedVersion: 2
-        x: 5799
+        x: 5800
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1509,9 +1509,9 @@ TextureImporter:
       name: caveman-idle_59
       rect:
         serializedVersion: 2
-        x: 5899
+        x: 5900
         y: 0
-        width: 94
+        width: 100
         height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
