@@ -16,7 +16,7 @@ public class GridController : MonoBehaviour
     private Vector2 m_middleOfSquareOffset = new Vector2(0.5f, 0.5f);
     private Vector2 m_entireGridOffset;
 
-    private Graph2D m_graph2D;     
+    public Graph2D m_graph2D;     
 
 
 
