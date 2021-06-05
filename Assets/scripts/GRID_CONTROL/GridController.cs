@@ -22,8 +22,11 @@ public class GridController : MonoBehaviour
 
     const float SIZE_OF_SCANBOX = 0.75f;
     const string OBSTACLE_LAYER_NAME = "OBSTACLE";
-    // Start is called before the first frame update
-    void Start()
+
+
+
+
+    void Awake()
     {
         m_leftupVector = gameObjectoGridVector2Int(m_leftUpCornerMarker);
         m_rightDownVector = gameObjectoGridVector2Int(m_rightDownCornerMarker);
@@ -37,6 +40,11 @@ public class GridController : MonoBehaviour
 
         m_txtContainer = new GameObject("debug text Container");
         m_txtContainer.transform.position = new Vector3(m_entireGridOffset.x, m_entireGridOffset.y, 0);
+    }
+    // Start is called before the first frame update
+    void Start()
+    {
+
 
     }
 
