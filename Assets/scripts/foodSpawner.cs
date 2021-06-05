@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Linq;
 
 public class foodSpawner : MonoBehaviour
 {
@@ -12,7 +13,8 @@ public class foodSpawner : MonoBehaviour
     private int m_gridHeight;
     private float m_TimeBetweenSpawns = 2f;
     private float m_lastTime;
-    private HashSet<Vector2Int> m_foods = new HashSet<Vector2Int>();
+    private int m_foodId = 0;
+    private Dictionary<int, Vector2Int> m_foods = new Dictionary<int, Vector2Int>();
 
     private void Start()
     {
@@ -23,9 +25,16 @@ public class foodSpawner : MonoBehaviour
         m_lastTime = Time.time;
     }
 
-    public void removeFood(Vector2Int _pos) 
+    public void removeFood(int _id) 
     {
-        //m_foods.Remove(_pos);
+        m_foods.Remove(_id);
+    }
+
+    public Vector2Int getRandomFood() 
+    {
+        int idx = Random.Range(0, m_foods.Count);
+        Vector2Int target = m_foods.Values.ElementAt(idx);
+        return m_gridController.convectGridToGameWorld(target);
     }
 
     private void FixedUpdate()
@@ -35,8 +44,9 @@ public class foodSpawner : MonoBehaviour
             Vector2Int coordinates = getEmptyCoordinate();
             Vector2Int worldCoordinates = m_gridController.convectGridToGameWorld(coordinates);
             Vector3 worldPosition = new Vector3((float)worldCoordinates.x + 0.5f, (float)worldCoordinates.y + 0.5f, 0);
-            SpawnFood(worldPosition, worldCoordinates);
-            //m_foods.Add(coordinates);
+            SpawnFood(worldPosition, m_foodId);
+            m_foods.Add(m_foodId, coordinates);
+            ++m_foodId;
             m_lastTime = Time.time;
         } 
         
@@ -56,9 +66,9 @@ public class foodSpawner : MonoBehaviour
         return res;
     }
 
-    private void SpawnFood(Vector3 worldCoordinates, Vector2Int coordinates) 
+    private void SpawnFood(Vector3 worldCoordinates, int id) 
     {
         GameObject obj = GameObject.Instantiate(m_foodPrefab, worldCoordinates, Quaternion.identity, transform);
-        obj.GetComponent<food>().setPosition(coordinates);
+        obj.GetComponent<food>().setId(id);
     }
 }

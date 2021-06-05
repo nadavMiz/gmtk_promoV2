@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class food : MonoBehaviour
 {
-    private Vector2Int m_position;
+    private int m_id;
 
-    public void setPosition(Vector2Int _pos) 
+    public void setId(int id) 
     {
-        m_position = _pos;
+        m_id = id;
     }
 
     public void chararcterCollide(Collider2D collider) 
@@ -17,7 +17,7 @@ public class food : MonoBehaviour
         foodSpawner spawner = GetComponentInParent<foodSpawner>();
         if (spawner != null) 
         {
-            spawner.removeFood(m_position);
+            spawner.removeFood(m_id);
         }
         Destroy(gameObject);
     }
