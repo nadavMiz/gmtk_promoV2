@@ -48,6 +48,7 @@ public class charecterController : MonoBehaviour
     public void eat(GameObject obj) 
     {
         m_size += GROWTH_RATE;
+        Debug.Log("num num " + m_size);
         while (m_stageIdx < m_stages.Count && m_size >= m_stages[m_stageIdx].m_growthRate) 
         {
             ++m_stageIdx;
@@ -58,8 +59,6 @@ public class charecterController : MonoBehaviour
             startAttackMode();
         }
         m_animationController.setLevel((int)m_size);
-
-        Debug.Log("num num " + m_size);
     }
 
     public bool isAttackMode() { return m_isAttackMode; }
