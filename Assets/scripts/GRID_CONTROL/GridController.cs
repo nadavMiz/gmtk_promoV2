@@ -15,6 +15,7 @@ public class GridController : MonoBehaviour
     public Grid2D m_grid2D = null;
     private Vector2 m_middleOfSquareOffset = new Vector2(0.5f, 0.5f);
     private Vector2 m_entireGridOffset;
+
     private Graph2D m_graph2D;     
 
 
@@ -34,7 +35,7 @@ public class GridController : MonoBehaviour
         m_grid2D = new Grid2D(m_leftupVector, m_rightDownVector);
         scanEnviormentAndSetGrid();
         m_graph2D = new Graph2D(m_grid2D);
-
+        m_graph2D.startPathFinding(new Vector2Int(0, 0), new Vector2Int(8, 0));
 
 
 
@@ -196,7 +197,8 @@ public class GridController : MonoBehaviour
         Vector2Int size = m_grid2D.getSizeVector();
         foreach( Node2D node in m_graph2D.m_nodes)
         {
-            createWorldText2D("0", m_txtContainer.transform, new Vector2(node.m_cords.x, node.m_cords.y) + m_middleOfSquareOffset, 50, Color.white );
+            if(node!=null)
+                createWorldText2D("0", m_txtContainer.transform, new Vector2(node.m_cords.x, node.m_cords.y) + m_middleOfSquareOffset, 50, Color.white );
 
         }
 
