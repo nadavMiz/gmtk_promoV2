@@ -12,7 +12,7 @@ public class GridController : MonoBehaviour
     public bool m_debugGrid;
     public bool m_debugGraph;
     GameObject m_txtContainer;
-    private Grid2D m_grid2D = null;
+    public Grid2D m_grid2D = null;
     private Vector2 m_middleOfSquareOffset = new Vector2(0.5f, 0.5f);
     private Vector2 m_entireGridOffset;
     private Graph2D m_graph2D;     
