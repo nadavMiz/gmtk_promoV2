@@ -40,7 +40,16 @@ public class GridController : MonoBehaviour
 
     }
 
-
+    public Vector2Int convectGridToGameWorld(Vector2Int cords)
+    {
+        if(!m_grid2D.checkValidCordinates(cords.x,cords.y))
+        {
+            Debug.LogError("convectGridToGameWorld bad cords");
+            return new Vector2Int(-1, -1);
+        }
+        
+        return new Vector2Int(Mathf.FloorToInt(m_entireGridOffset.x+cords.x), Mathf.FloorToInt(m_entireGridOffset.y)+cords.y); ;
+    }
 
 
     public TextMesh createWorldText2D(string text, Transform parent, Vector2 localPosition, int fontSize, Color color)
