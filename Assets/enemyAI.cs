@@ -15,6 +15,10 @@ public class enemyAI : MonoBehaviour
 
     private void getNextDirection() 
     {
+        if (m_nodeIdx >= m_path.Count) 
+        {
+            return;
+        }
         Node2D node = m_path[m_nodeIdx];
         Vector2Int targetNode = m_gridController.convectGridToGameWorld(node.m_cords);
         m_target = new Vector2(targetNode.x + 0.5f, targetNode.y + 0.5f);
@@ -33,10 +37,16 @@ public class enemyAI : MonoBehaviour
 
     private void FixedUpdate()
     {
+        Vector2 position = new Vector2(transform.position.x, transform.position.y);
         if (m_nodeIdx >= m_path.Count) 
         {
             getNewPath();
         }
         m_controller.Move(m_diretion);
+        if (Vector2.Distance(position, m_target) < 0.2) 
+        {
+            ++m_nodeIdx;
+            getNextDirection();
+        }
     }
 }
